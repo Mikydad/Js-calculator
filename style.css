@@ -6,6 +6,7 @@ body{
     padding: 0;
     margin: 0;
     background: linear-gradient(to right, #00AAFF, #00FF6C);
+
 }
 .calculator-grid{
     display: grid;
@@ -43,7 +44,7 @@ body{
 }
 .output .previus-operand{
     color: rgba(255, 255, 255, .75);
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 .output .current-operand{
     color: white;
